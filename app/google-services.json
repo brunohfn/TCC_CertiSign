@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084188008569",
+    "firebase_url": "https://certisign-730c6.firebaseio.com",
+    "project_id": "certisign-730c6",
+    "storage_bucket": "certisign-730c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084188008569:android:1f28f714e719f7e41db4a8",
+        "android_client_info": {
+          "package_name": "br.com.unipac.certsign_tcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084188008569-n7noi5t724e5pnekcue3h5mssko2cu43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.unipac.certsign_tcc",
+            "certificate_hash": "fae28f88a02bd029b15c177ea34d4828a971ca40"
+          }
+        },
+        {
+          "client_id": "1084188008569-rn8f8diuk9ka20t58gdldv2rj6sv6juk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX0GX8BRugIYjrHziWFti-6UpTXd0S_Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084188008569-rn8f8diuk9ka20t58gdldv2rj6sv6juk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
